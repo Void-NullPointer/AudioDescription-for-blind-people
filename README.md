@@ -20,6 +20,9 @@ The focus of this directory is to describe the facial features of a person cente
 
 ### `AudioDescriptionText`
 This directory's scripts are designed to read any text present in front of the user. They help in accessing written content, which can be crucial for independent interaction with various environments.
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/351822910547034122/1252057107226689568/text1Borrado.jpg?ex=6670d48c&is=666f830c&hm=88298d2697d6665601e7741ca9373dacd7368e20349880dc027c0f8a275bfe20&" width="30%" height="30%" alt="Example of AudioDescription Person">
+</div>
 
 ## Project Purpose
 The purpose of this project is to explore and demonstrate how specific audio descriptions generated through advanced AI models like ChatGPT-4o can aid visually impaired individuals. By leveraging HMD technology, the project seeks to create more inclusive and accessible experiences, potentially transforming how visually impaired individuals perceive and interact with the world.
