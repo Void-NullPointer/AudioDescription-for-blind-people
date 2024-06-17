@@ -8,9 +8,15 @@ This project aims to validate the potential of providing targeted audio descript
 
 ### `AudioDescription`
 This directory contains scripts that generate a general description of the scenario based on a screenshot. The audio output provides an overall context of the environment, enhancing spatial awareness for visually impaired users.
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/351822910547034122/1252061704397783173/general2Borrado.jpg?ex=6670d8d4&is=666f8754&hm=1bd18dea10d8eac8611edab06907ddadda8aec9cb7e9849983157dad748271d0&" width="30%" height="30%" alt="Example of AudioDescription Person">
+</div>
 
 ### `AudioDescriptionLocomotion`
 Scripts in this directory assist with locomotion by describing the path ahead. They focus on identifying clear pathways and highlighting obstacles, thus aiding users in navigating their environments safely.
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/351822910547034122/1252061841933209752/locomotion1Borrado.jpg?ex=6670d8f5&is=666f8775&hm=c17844adfe0791d7b5e2fbc99ce902d584d2e23a14536041c9702930f359c0e4&" width="30%" height="30%" alt="Example of AudioDescription Person">
+</div>
 
 ### `AudioDescriptionPerson`
 The focus of this directory is to describe the facial features of a person centered on the screen. These scripts provide detailed descriptions of facial characteristics, helping users form a mental image of the people around them.
