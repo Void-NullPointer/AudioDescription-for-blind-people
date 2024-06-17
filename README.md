@@ -14,6 +14,7 @@ Scripts in this directory assist with locomotion by describing the path ahead. T
 
 ### `AudioDescriptionPerson`
 The focus of this directory is to describe the facial features of a person centered on the screen. These scripts provide detailed descriptions of facial characteristics, helping users form a mental image of the people around them.
+[Example Image] (https://cdn.discordapp.com/attachments/351822910547034122/1252057106895470602/people2Borrado.jpg?ex=6670d48c&is=666f830c&hm=ec0c22573eaa53e67c526ce52ddc05d96cfa14653c2d4caf77c92f14f3423d45&)
 
 ### `AudioDescriptionText`
 This directory's scripts are designed to read any text present in front of the user. They help in accessing written content, which can be crucial for independent interaction with various environments.
